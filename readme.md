@@ -4,6 +4,12 @@ Este é um projeto de exemplo criado para demonstrar a estrutura básica de um r
 
 ---
 
-## 📁 Estrutura
+## 📁 Estrutura do Projeto
+
+### Adicionando Nova Funcionalidade
+
+---
+
+Testando
 
 
